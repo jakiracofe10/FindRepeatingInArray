@@ -1,6 +1,8 @@
 #include <iostream>
 #include <map>
 
+//Time: O(n)
+
 using namespace std;
 
 int findRepeating(int* arr, int n) {
